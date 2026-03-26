@@ -1,61 +1,132 @@
-# Sanusi Habeeb Eniola - Data Analysis Portfolio
+# Sanusi Habeeb Eniola – Data Analyst Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome to my data analysis portfolio. This repository showcases my projects, technical skills, and ability to extract actionable insights from data using Python and Power BI.
 
-## About This Portfolio Template
+---
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+## 👨‍💻 About Me
 
-## 🚀 Projects
+I am a data analyst with a strong focus on using Python, MySQL, Microsoft Excel, and Microsoft PowerBI for data analysis and visualization. I enjoy working with real-world datasets to uncover trends, identify patterns, and support data-driven decision-making.
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+My workflow typically includes data cleaning, exploratory data analysis (EDA), and visualization, with a focus on clear and impactful storytelling.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+---
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+## 🚀 Featured Projects
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### 📊 HR Analytics Dashboard
+**Tools:** Power BI  
 
+**Overview:**  
+Developed an interactive HR dashboard to analyze employee data and workforce trends.
 
-## 🛠️ Skills
+**Key Insights:**
+- Identified employee attrition patterns  
+- Analyzed department-wise workforce distribution  
+- Highlighted key factors influencing employee turnover  
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+**Outcome:**  
+Created a dynamic dashboard to support HR decision-making and workforce planning.
 
-- **Data Visualization**: Power BI, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), and Excel.
-- **Data Modeling**: Power Query, DAX, etc.
-- **Tools**: Microsoft Excel, Power BI Service, specific cloud platforms, etc.
+🔗 View Project: []
 
-## 💡 How to Use This Template
+---
 
-Creating your own portfolio from this template is a simple, four-step process.
+### 📈 Python Data Analysis Project 1
+**Tools:** Python (Pandas, Matplotlib, Seaborn)  
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+**Overview:**  
+Performed data cleaning and exploratory data analysis on a real-world dataset.
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+**Key Tasks:**
+- Data cleaning and preprocessing  
+- Handling missing values and duplicates  
+- Data transformation for analysis  
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+**Key Insights:**
+- Identified trends and patterns in the dataset  
+- Discovered relationships between key variables  
+- Visualized distributions and correlations  
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+**Outcome:**  
+Generated insights and visualizations to simplify complex data.
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+🔗 View Project: []
+
+---
+
+### 📉 Python Data Analysis Project 2
+**Tools:** Python (Pandas, Matplotlib)  
+
+**Overview:**  
+Conducted exploratory data analysis (EDA) to uncover insights and support decision-making.
+
+**Key Insights:**
+- Detected anomalies and outliers in the dataset  
+- Analyzed key performance indicators  
+- Provided data-driven recommendations  
+
+**Outcome:**  
+Produced clear visual reports and summaries for better understanding of the data.
+
+🔗 View Project: []
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analysis
+- Python (Pandas, NumPy)
+- SQL (MySQL)
+- Microsoft Excel
+
+### 📈 Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+
+### 🧠 Data Processing
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Understanding
+
+### ⚙️ Tools
+- Jupyter Notebook
+- Git & GitHub
+- Power BI Service
+
+---
+
+## 📌 My Data Analysis Workflow
+
+1. Data Collection  
+2. Data Cleaning & Preprocessing  
+3. Exploratory Data Analysis (EDA)  
+4. Visualization & Insight Generation  
+5. Reporting & Dashboard Creation  
+
+---
+
+## 🌐 Live Portfolio
+
+🔗 https://sanusi-habeeb-eniola.github.io/
+
+---
+
+## 📄 Resume
+
+Available in this repository.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: habeebeniolasanusi@gmail.com  
+- 💼 LinkedIn: [www.linkedin.com/in/habeeb-eniola-sanusi-322618343]  
+- 🐙 GitHub: https://github.com/Sanusi-Habeeb-Eniola  
+
+---
+
+## 💡 Final Note
+
+I am continuously improving data analysis skills by working on real-world datasets and building projects that demonstrate practical business insights. I am open to all opportunities in data analytics.
